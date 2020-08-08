@@ -1,6 +1,7 @@
 # Carro autónomo (Arduino)
 
-Carro de 4 motores independetes capaz de detetar e evitar obstucálos contruído através de componentes compativéis com o Arduino.
+Carro de 4 motores independetes capaz de detetar e evitar obstucálos.       
+Contruído através de componentes compativéis com o Arduino, baratos e de fácil acesso de forma a que qualquer pessoa possa fazer um igual.
 
 # Material Necessário
 
