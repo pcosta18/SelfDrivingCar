@@ -14,4 +14,4 @@ Contruído através de componentes compativéis com o Arduino, baratos e de fác
 
 # Ter em Atenção
 
-O sensor ultrassônico usado é um sensor barato, pelo que vem com as suas próprias falhas como as distâncias lidas não serem as mais precias.
+O sensor ultrassônico usado é um sensor barato, pelo que vem com as suas próprias falhas (como as distâncias lidas não serem as mais precias).
